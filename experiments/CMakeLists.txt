@@ -1,1 +1,2 @@
 add_subdirectory(bullet_basic_demo)
+add_subdirectory(gazebo_basic_example)
